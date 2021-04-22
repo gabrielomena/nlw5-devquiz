@@ -1,5 +1,6 @@
 import 'package:DevQuiz/core/app_gradients.dart';
 import 'package:DevQuiz/core/app_text_styles.dart';
+import 'package:DevQuiz/home/widgets/level_button/level_button_widget.dart';
 import 'package:DevQuiz/home/widgets/score_card/score_card_widget.dart';
 import 'package:flutter/material.dart';
 
@@ -45,7 +46,7 @@ class AppBarWidget extends PreferredSize {
                   ),
                 ),
                 Align(
-                  alignment: Alignment(0.0, 1.2),
+                  alignment: Alignment(0.0, 1.1),
                   child: ScoreCardWidget(),
                 ),
               ],
