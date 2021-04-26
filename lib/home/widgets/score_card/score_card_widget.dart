@@ -4,6 +4,7 @@ import 'package:DevQuiz/home/widgets/chart/chart_widget.dart';
 import 'package:flutter/material.dart';
 
 class ScoreCardWidget extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
     return Padding(

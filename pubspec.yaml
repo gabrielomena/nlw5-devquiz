@@ -1,5 +1,5 @@
 name: DevQuiz
-description: DevQuiz - Gabul DEV
+description: DevQuiz - Gabo DEV
 version: 1.0.0+1
 
 environment:
@@ -19,6 +19,6 @@ dev_dependencies:
 flutter:
   assets:
     - assets/images/
-    - database/
+    - assets/database/
 
   uses-material-design: true
